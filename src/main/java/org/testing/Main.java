@@ -103,7 +103,7 @@ public class Main {
                         int colIndex = entry.getKey();
                         if (colIndex < cells.size()) {
                             String headerName = entry.getValue();
-                            String cellValue = cells.get(colIndex).getAttribute("textContent").trim();
+                            String cellValue = cells.get(colIndex).getAttribute("textContent").replaceAll("\\u00A0", " ").trim();
                             jsonObject.put(headerName, cellValue);
                         }
                     }
