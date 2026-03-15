@@ -136,7 +136,12 @@ public class Main {
                     keepGoing = false;
                 }
             }
-
+            WebElement logoutBtn = driver.findElement(By.id("ctl00_btnLogOut"));
+            try {
+                logoutBtn.click();
+            } catch (Exception e) {
+                ((JavascriptExecutor) driver).executeScript("arguments[0].click();", logoutBtn);
+            }
             ObjectMapper mapper = new ObjectMapper();
             String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(finalJsonList);
             String jsContent = "const OrderData = " + jsonString + ";";
