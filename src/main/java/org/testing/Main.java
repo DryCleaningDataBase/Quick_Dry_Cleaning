@@ -40,7 +40,7 @@ public class Main {
             
             wait.until(ExpectedConditions.not(ExpectedConditions.urlContains("Login")));
             
-            WebElement reportsButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]"));
+            WebElement reportsButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]")));
             WebElement orderButton = driver.findElement(By.xpath("//ul[@class='nav navbar-nav']/child::li[7]/ul/child::li"));
             try {
                 reportsButton.click();
@@ -50,7 +50,7 @@ public class Main {
                 ((JavascriptExecutor) driver).executeScript("arguments[0].click();", orderButton);
             }
             
-            WebElement filterButton = driver.findElement(By.xpath("//div[@class='panel-heading']/h3/div[@id='reportrange']"));
+            WebElement filterButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='panel-heading']/h3/div[@id='reportrange']")));
             WebElement filterMonth = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu opensleft']/child::div[last()]/ul/child::li[5]"));
             try {
                 filterButton.click();
@@ -59,30 +59,41 @@ public class Main {
                 ((JavascriptExecutor) driver).executeScript("arguments[0].click();", filterButton);
                 ((JavascriptExecutor) driver).executeScript("arguments[0].click();", filterMonth);
             }
+            WebElement expandButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//span[@id='achrExpand']")));
+            try {
+                expandButton.click();
+            } catch (Exception e) {
+                ((JavascriptExecutor) driver).executeScript("arguments[0].click();", expandButton);
+            }
 
             List<String> allowedHeaders = Arrays.asList(
-                    "Store Name", "Order Date / Time", "Order No.", "Name",
-                    "Address", "Phone", "Due Date", "Pcs.", "Weight",
-                    "Gross Amount", "Discount", "Advance", "Paid", "Balance"
+                "Store Name", "Order Date / Time", "Order No.", "Name", "Address", 
+                "Phone", "Preference", "Due Date", "Delivered On", "Pcs.", 
+                "Weight", "Gross Amount", "Discount", "Advance", "Paid", 
+                "Adjustment", "Balance", "Advance Received", "Advance Used", 
+                "Booked By", "WorkShop Note", "Order Note", "Home Delivery", 
+                "Area Location", "Garments inspected by", "Customer GSTIN", 
+                "Registration Source", "Order from POS", "Order Status", "Customer Code"
             );
 
             List<Map<String, String>> finalJsonList = new ArrayList<>();
             int currentPage = 1;
             boolean keepGoing = true;
 
+            WebElement firstTable = wait.until(ExpectedConditions.presenceOfElementLocated(By.id("grdReport")));
+            List<WebElement> headerElements = firstTable.findElements(By.xpath(".//tr[1]/th"));
+            Map<Integer, String> colMap = new LinkedHashMap<>();
+            for (int i = 0; i < headerElements.size(); i++) {
+                String headerText = headerElements.get(i).getText().trim();
+                if (allowedHeaders.contains(headerText)) {
+                    colMap.put(i, headerText);
+                }
+            }
+
             while (keepGoing) {
                 WebElement table = wait.until(ExpectedConditions.presenceOfElementLocated(By.id("grdReport")));
-                
-                List<WebElement> headerElements = table.findElements(By.xpath(".//tr[1]/th"));
-                Map<Integer, String> colMap = new LinkedHashMap<>();
-                for (int i = 0; i < headerElements.size(); i++) {
-                    String headerText = headerElements.get(i).getText().trim();
-                    if (allowedHeaders.contains(headerText)) {
-                        colMap.put(i, headerText);
-                    }
-                }
-
                 List<WebElement> rows = table.findElements(By.xpath(".//tr[position() > 1 and not(contains(@class, 'Pager'))]"));
+                
                 for (WebElement row : rows) {
                     List<WebElement> cells = row.findElements(By.tagName("td"));
                     if (cells.size() < colMap.size()) continue;
@@ -90,9 +101,11 @@ public class Main {
                     Map<String, String> jsonObject = new LinkedHashMap<>();
                     for (Map.Entry<Integer, String> entry : colMap.entrySet()) {
                         int colIndex = entry.getKey();
-                        String headerName = entry.getValue();
-                        String cellValue = cells.get(colIndex).getAttribute("textContent").trim();
-                        jsonObject.put(headerName, cellValue);
+                        if (colIndex < cells.size()) {
+                            String headerName = entry.getValue();
+                            String cellValue = cells.get(colIndex).getAttribute("textContent").trim();
+                            jsonObject.put(headerName, cellValue);
+                        }
                     }
                     finalJsonList.add(jsonObject);
                 }
@@ -104,11 +117,7 @@ public class Main {
 
                     if (!nextLinks.isEmpty()) {
                         WebElement nextButton = nextLinks.get(0);
-                        try {
-                            nextButton.click();
-                        } catch (Exception e) {
-                            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", nextButton);
-                        }
+                        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", nextButton);
                         currentPage++;
                         wait.until(ExpectedConditions.stalenessOf(table));
                     } else {
@@ -116,11 +125,7 @@ public class Main {
                         List<WebElement> ellipsis = driver.findElements(ellipsisSelector);
                         if (!ellipsis.isEmpty()) {
                             WebElement lastEllipsis = ellipsis.get(ellipsis.size() - 1);
-                            try {
-                                lastEllipsis.click();
-                            } catch (Exception e) {
-                                ((JavascriptExecutor) driver).executeScript("arguments[0].click();", lastEllipsis);
-                            }
+                            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", lastEllipsis);
                             currentPage++;
                             wait.until(ExpectedConditions.stalenessOf(table));
                         } else {
