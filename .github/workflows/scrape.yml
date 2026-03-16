@@ -2,12 +2,13 @@ name: QuickDryCleaningData
 
 on:
   schedule:
+    # Runs every hour from 9:00 AM IST to 9:00 PM IST (3:30 AM to 3:30 PM UTC)
     - cron: '30 3-15 * * *' 
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     environment: developer
     permissions:
       contents: write
@@ -19,13 +20,10 @@ jobs:
           fetch-depth: 0
 
       - name: Check Schedule Heartbeat
-        shell: pwsh
         run: |
-          # Convert UTC to IST for the logs
-          $utcTime = [DateTime]::UtcNow
-          $istTimeZone = [System.TimeZoneInfo]::FindSystemTimeZoneById("India Standard Time")
-          $istTime = [System.TimeZoneInfo]::ConvertTime($utcTime, $istTimeZone)
-          Write-Host "Heartbeat: Workflow triggered at $($istTime.ToString('yyyy-MM-dd HH:mm:ss')) IST"
+          # Set the timezone to IST and print the current time
+          export TZ="Asia/Kolkata"
+          echo "Heartbeat: Workflow triggered at $(date +'%Y-%m-%d %H:%M:%S') IST"
 
       - name: Set up JDK 11
         uses: actions/setup-java@v4
@@ -41,36 +39,32 @@ jobs:
           install-chromedriver: true
 
       - name: Create Output Directory
-        shell: pwsh
-        run: |
-          if (!(Test-Path "src/main/resources/Output/")) {
-            New-Item -ItemType Directory -Force -Path "src/main/resources/Output/"
-          }
+        run: mkdir -p src/main/resources/Output/
 
       - name: Run Selenium Scraper
         run: mvn compile exec:java -D"exec.mainClass"="org.testing.Main"
         env:
           USER_ID: ${{ secrets.SCRAPE_USER }}
           USER_PASS: ${{ secrets.SCRAPE_PASS }}
+          CHROME_OPTIONS: "--headless --disable-gpu --no-sandbox"
 
       - name: Commit and Push changes
-        shell: pwsh
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          $branch = git rev-parse --abbrev-ref HEAD
+          # Detect the current branch
+          BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-          # Stage all changes in the Output directory
+          # Stage changes
           git add src/main/resources/Output/*
           
-          $status = git status --porcelain
-          if ($status) {
-              Write-Host "Changes detected. Committing updates..."
+          # Check for changes using standard Bash 'if' syntax
+          if [ -n "$(git status --porcelain)" ]; then
+              echo "Changes detected. Committing updates..."
               git commit -m "Automated update: OrderReport and Branch APIs"
-              # Rebase helps avoid conflicts if the repo was updated while the scraper ran
-              git pull --rebase origin $branch
-              git push origin $branch
-          } else {
-              Write-Host "No changes detected. Skipping push."
-          }
+              git pull --rebase origin $BRANCH
+              git push origin $BRANCH
+          else
+              echo "No changes detected. Skipping push."
+          fi
