@@ -21,8 +21,11 @@ jobs:
       - name: Check Schedule Heartbeat
         shell: pwsh
         run: |
-          $istTime = [System.TimeZoneInfo]::ConvertTimeBySystemTimeZoneId([DateTime]::UtcNow, "India Standard Time")
-          Write-Host "Heartbeat: Workflow triggered at $istTime IST"
+          # Convert UTC to IST for the logs
+          $utcTime = [DateTime]::UtcNow
+          $istTimeZone = [System.TimeZoneInfo]::FindSystemTimeZoneById("India Standard Time")
+          $istTime = [System.TimeZoneInfo]::ConvertTime($utcTime, $istTimeZone)
+          Write-Host "Heartbeat: Workflow triggered at $($istTime.ToString('yyyy-MM-dd HH:mm:ss')) IST"
 
       - name: Set up JDK 11
         uses: actions/setup-java@v4
@@ -58,15 +61,16 @@ jobs:
           
           $branch = git rev-parse --abbrev-ref HEAD
 
-          # Stage all changes in the Output directory (covers all 5 files)
+          # Stage all changes in the Output directory
           git add src/main/resources/Output/*
           
           $status = git status --porcelain
           if ($status) {
               Write-Host "Changes detected. Committing updates..."
               git commit -m "Automated update: OrderReport and Branch APIs"
+              # Rebase helps avoid conflicts if the repo was updated while the scraper ran
               git pull --rebase origin $branch
               git push origin $branch
           } else {
-              Write-Host "No changes detected in any API files. Skipping push."
+              Write-Host "No changes detected. Skipping push."
           }
