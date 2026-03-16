@@ -8,6 +8,7 @@ import java.util.Collections;
 public class Drivers {
     
     public static WebDriver openChromeBrowser() {
+		WebDriverManager.chromedriver().setup();
         ChromeOptions options = new ChromeOptions();
         
         options.addArguments("--headless=new"); 
