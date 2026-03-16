@@ -40,8 +40,8 @@ jobs:
       - name: Create Output Directory
         shell: pwsh
         run: |
-          if (!(Test-Path "src/main/resources/output/")) {
-            New-Item -ItemType Directory -Force -Path "src/main/resources/output/"
+          if (!(Test-Path "src/main/resources/Output/")) {
+            New-Item -ItemType Directory -Force -Path "src/main/resources/Output/"
           }
 
       - name: Run Selenium Scraper
@@ -58,8 +58,8 @@ jobs:
           
           $branch = git rev-parse --abbrev-ref HEAD
 
-          # Stage all changes in the output directory (covers all 5 files)
-          git add src/main/resources/output/*
+          # Stage all changes in the Output directory (covers all 5 files)
+          git add src/main/resources/Output/*
           
           $status = git status --porcelain
           if ($status) {
