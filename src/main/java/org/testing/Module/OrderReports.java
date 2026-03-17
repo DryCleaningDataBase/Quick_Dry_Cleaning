@@ -55,7 +55,7 @@ public class OrderReports {
             }
 
             WebElement filterButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='panel-heading']/h3/div[@id='reportrange']")));
-            WebElement filterMonth = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu opensleft']/child::div[last()]/ul/child::li[5]"));
+            WebElement filterMonth = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu opensleft']/child::div[last()]/ul/child::li[last()-6]"));
             try {
                 filterButton.click();
                 filterMonth.click();
