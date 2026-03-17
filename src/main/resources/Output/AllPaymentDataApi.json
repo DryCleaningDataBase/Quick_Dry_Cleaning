@@ -3,35 +3,35 @@
   "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
-  "Advance - UPI" : 880.0,
-  "Delivery - Cash" : 59352.0,
+  "Advance - UPI" : 0.0,
+  "Delivery - Cash" : 17084.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 268659.0,
+  "Delivery - UPI" : 80246.0,
   "Package - Sale" : 0.0,
-  "Customer Advance" : 18.0
+  "Customer Advance" : 8.0
 }, {
   "Location" : "Defence Colony",
-  "Advance - Cash" : 26.0,
+  "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 44193.0,
+  "Delivery - Cash" : 17713.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 9640.0,
-  "Delivery - UPI" : 95092.0,
-  "Package - Sale" : 30000.0,
-  "Customer Advance" : 126.0
+  "Delivery - UPI" : 6790.0,
+  "Package - Sale" : 0.0,
+  "Customer Advance" : 100.0
 }, {
   "Location" : "Greenpark",
   "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 383338.0,
+  "Delivery - Cash" : 92969.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 6705.0,
-  "Delivery - UPI" : 407002.0,
+  "Delivery - UPI" : 59080.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 10.0
 }, {
@@ -40,10 +40,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 102330.0,
+  "Delivery - Cash" : 22222.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 154123.0,
-  "Package - Sale" : 10000.0,
-  "Customer Advance" : 60.0
+  "Delivery - UPI" : 46447.0,
+  "Package - Sale" : 0.0,
+  "Customer Advance" : 0.0
 } ]

@@ -56,7 +56,7 @@ public class Payments {
             }
 
             WebElement filterButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='panel-heading']/h3/div[@id='reportrange']")));
-            WebElement filterYear = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu opensleft']/child::div[last()]/ul/child::li[last()-2]"));
+            WebElement filterYear = driver.findElement(By.xpath("//div[@class='daterangepicker dropdown-menu opensleft']/child::div[last()]/ul/child::li[last()-6]"));
             try {
                 filterButton.click();
                 filterYear.click();
