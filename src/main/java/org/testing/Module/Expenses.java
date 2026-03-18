@@ -69,7 +69,7 @@ public class Expenses {
             String originalTab = driver.getWindowHandle();
             for (WebElement rowData:rowsData)
             {
-                String rowName = rowData.getText();
+                String rowName = rowData.getText().trim();
                 try {
                     rowData.click();
                 } catch (Exception e) {
@@ -140,7 +140,7 @@ public class Expenses {
 
             for (Map.Entry<String, Object> entry : dataMap.entrySet()) {
                 String jsonString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(entry.getValue());
-                Path path = Paths.get("src/main/resources/Output/", entry.getKey());
+                Path path = Paths.get("src/main/resources/Output/AllExpensesApi/", entry.getKey());
 
                 Files.createDirectories(path.getParent());
                 Files.write(path, jsonString.getBytes(StandardCharsets.UTF_8),
