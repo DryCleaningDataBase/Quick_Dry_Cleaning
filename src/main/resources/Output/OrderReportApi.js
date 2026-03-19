@@ -709,7 +709,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6620"
 }, {
   "Store Name" : "Saket",
@@ -1267,7 +1267,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6571"
 }, {
   "Store Name" : "Greenpark",
@@ -1309,15 +1309,15 @@ const OrderData = [ {
   "Phone" : "9899732211",
   "Preference" : "NA",
   "Due Date" : "08 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 2:19:09 PM",
   "Pcs." : "5",
   "Weight" : "0",
   "Gross Amount" : "2040",
   "Discount" : "204",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "1836",
   "Adjustment" : "0",
-  "Balance" : "1836",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -1329,7 +1329,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust5854"
 }, {
   "Store Name" : "Greenpark",
@@ -1453,7 +1453,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6484"
 }, {
   "Store Name" : "Greenpark",
@@ -1546,7 +1546,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust4043"
 }, {
   "Store Name" : "Greenpark",
@@ -1639,7 +1639,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6435"
 }, {
   "Store Name" : "Saket",
@@ -2414,7 +2414,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6081"
 }, {
   "Store Name" : "Greenpark",
@@ -2662,7 +2662,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6086"
 }, {
   "Store Name" : "Greenpark",
@@ -2704,15 +2704,15 @@ const OrderData = [ {
   "Phone" : "8076221762",
   "Preference" : "NA",
   "Due Date" : "07 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 1:56:04 PM",
   "Pcs." : "2",
   "Weight" : "0",
   "Gross Amount" : "610",
   "Discount" : "61",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "549",
   "Adjustment" : "0",
-  "Balance" : "549",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -2724,7 +2724,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Ready",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust6073"
 }, {
   "Store Name" : "Greenpark",
@@ -2817,7 +2817,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6186"
 }, {
   "Store Name" : "Greenpark",
@@ -2828,15 +2828,15 @@ const OrderData = [ {
   "Phone" : "8076221762",
   "Preference" : "NA",
   "Due Date" : "09 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 2:02:45 PM",
   "Pcs." : "1",
   "Weight" : "0",
   "Gross Amount" : "510",
   "Discount" : "51",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "459",
   "Adjustment" : "0",
-  "Balance" : "459",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -2848,7 +2848,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Ready",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust6073"
 }, {
   "Store Name" : "Greenpark",
@@ -3003,7 +3003,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust5973"
 }, {
   "Store Name" : "Greenpark",
@@ -3034,7 +3034,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6850"
 }, {
   "Store Name" : "Greenpark",
@@ -3113,9 +3113,9 @@ const OrderData = [ {
   "Gross Amount" : "129292",
   "Discount" : "13504.17",
   "Advance" : "6641",
-  "Paid" : "88588",
+  "Paid" : "91432",
   "Adjustment" : "20",
-  "Balance" : "20540",
+  "Balance" : "17696",
   "Advance Received" : "100",
   "Advance Used" : "0",
   "Booked By" : "",
@@ -3561,7 +3561,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6082"
 }, {
   "Store Name" : "Greenpark",
@@ -3592,7 +3592,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6186"
 }, {
   "Store Name" : "Greenpark",
@@ -3685,7 +3685,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6856"
 }, {
   "Store Name" : "Greenpark",
@@ -3840,7 +3840,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust4044"
 }, {
   "Store Name" : "Greenpark",
@@ -4026,7 +4026,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6695"
 }, {
   "Store Name" : "Greenpark",
@@ -4150,7 +4150,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6048"
 }, {
   "Store Name" : "Saket",
@@ -4832,7 +4832,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6095"
 }, {
   "Store Name" : "Greenpark",
@@ -4874,15 +4874,15 @@ const OrderData = [ {
   "Phone" : "7838199104",
   "Preference" : "NA",
   "Due Date" : "16 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 1:22:35 PM",
   "Pcs." : "2",
   "Weight" : "0",
   "Gross Amount" : "699",
   "Discount" : "0",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "699",
   "Adjustment" : "0",
-  "Balance" : "699",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -4894,7 +4894,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust6862"
 }, {
   "Store Name" : "Greenpark",
@@ -4987,7 +4987,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6197"
 }, {
   "Store Name" : "Greenpark",
@@ -5049,7 +5049,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6034"
 }, {
   "Store Name" : "Greenpark",
@@ -5111,7 +5111,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6308"
 }, {
   "Store Name" : "Greenpark",
@@ -5432,15 +5432,15 @@ const OrderData = [ {
   "Phone" : "9971149179",
   "Preference" : "NA",
   "Due Date" : "15 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 12:23:57 PM",
   "Pcs." : "12",
   "Weight" : "0",
   "Gross Amount" : "3440",
   "Discount" : "0",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "3440",
   "Adjustment" : "0",
-  "Balance" : "3440",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Sidharth",
@@ -5452,7 +5452,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Ready",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust6866"
 }, {
   "Store Name" : "CR Park",
@@ -5773,15 +5773,15 @@ const OrderData = [ {
   "Phone" : "9582210125",
   "Preference" : "NA",
   "Due Date" : "12 Mar 2026",
-  "Delivered On" : "",
+  "Delivered On" : "19 Mar 2026 1:18:19 PM",
   "Pcs." : "1",
   "Weight" : "0",
   "Gross Amount" : "720",
   "Discount" : "0",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "720",
   "Adjustment" : "0",
-  "Balance" : "720",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -5793,7 +5793,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust5855"
 }, {
   "Store Name" : "Greenpark",
@@ -6244,9 +6244,9 @@ const OrderData = [ {
   "Gross Amount" : "168661.9",
   "Discount" : "24421.04",
   "Advance" : "100",
-  "Paid" : "72879",
+  "Paid" : "77738",
   "Adjustment" : "0",
-  "Balance" : "71363",
+  "Balance" : "66504",
   "Advance Received" : "0",
   "Advance Used" : "100",
   "Booked By" : "",
@@ -8211,7 +8211,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust1974"
 }, {
   "Store Name" : "Defence Colony",
@@ -9451,7 +9451,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6295"
 }, {
   "Store Name" : "Saket",
@@ -9761,7 +9761,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6439"
 }, {
   "Store Name" : "CR Park",
@@ -10598,7 +10598,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6055"
 }, {
   "Store Name" : "Saket",
@@ -10660,7 +10660,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust901"
 }, {
   "Store Name" : "Saket",
@@ -10753,7 +10753,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust1154"
 }, {
   "Store Name" : "Saket",
@@ -10846,7 +10846,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6888"
 }, {
   "Store Name" : "CR Park",
@@ -10939,7 +10939,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6753"
 }, {
   "Store Name" : "CR Park",
@@ -13391,8 +13391,132 @@ const OrderData = [ {
   "Order Status" : "Unprocessed",
   "Customer Code" : "Cust4043"
 }, {
+  "Store Name" : "Greenpark",
+  "Order Date / Time" : "19 Mar 2026 1:38:51 PM",
+  "Order No." : "G18477",
+  "Name" : "amit sharma",
+  "Address" : "B6 / 107 3rd floor sje",
+  "Phone" : "9996292921",
+  "Preference" : "NA",
+  "Due Date" : "22 Mar 2026",
+  "Delivered On" : "",
+  "Pcs." : "39",
+  "Weight" : "0",
+  "Gross Amount" : "7500",
+  "Discount" : "2250",
+  "Advance" : "0",
+  "Paid" : "0",
+  "Adjustment" : "0",
+  "Balance" : "5250",
+  "Advance Received" : "0",
+  "Advance Used" : "0",
+  "Booked By" : "Prateek",
+  "WorkShop Note" : "",
+  "Order Note" : "",
+  "Home Delivery" : "No",
+  "Area Location" : "",
+  "Garments inspected by" : "",
+  "Customer GSTIN" : "",
+  "Registration Source" : "Walk in Customer",
+  "Order from POS" : "No",
+  "Order Status" : "Unprocessed",
+  "Customer Code" : "Cust4028"
+}, {
+  "Store Name" : "Greenpark",
+  "Order Date / Time" : "19 Mar 2026 2:20:15 PM",
+  "Order No." : "G18478",
+  "Name" : "Namita Sethi",
+  "Address" : "y22 gp",
+  "Phone" : "9899732211",
+  "Preference" : "NA",
+  "Due Date" : "22 Mar 2026",
+  "Delivered On" : "",
+  "Pcs." : "5",
+  "Weight" : "0",
+  "Gross Amount" : "1000",
+  "Discount" : "100",
+  "Advance" : "0",
+  "Paid" : "0",
+  "Adjustment" : "0",
+  "Balance" : "900",
+  "Advance Received" : "0",
+  "Advance Used" : "0",
+  "Booked By" : "Prateek",
+  "WorkShop Note" : "",
+  "Order Note" : "",
+  "Home Delivery" : "No",
+  "Area Location" : "",
+  "Garments inspected by" : "",
+  "Customer GSTIN" : "",
+  "Registration Source" : "Walk in Customer",
+  "Order from POS" : "No",
+  "Order Status" : "Unprocessed",
+  "Customer Code" : "Cust5854"
+}, {
+  "Store Name" : "Greenpark",
+  "Order Date / Time" : "19 Mar 2026 2:32:42 PM",
+  "Order No." : "G18479",
+  "Name" : "vinleet",
+  "Address" : "F9 gp main 3rd flr",
+  "Phone" : "9810952944",
+  "Preference" : "NA",
+  "Due Date" : "22 Mar 2026",
+  "Delivered On" : "",
+  "Pcs." : "24",
+  "Weight" : "0",
+  "Gross Amount" : "3150",
+  "Discount" : "0",
+  "Advance" : "0",
+  "Paid" : "0",
+  "Adjustment" : "0",
+  "Balance" : "3150",
+  "Advance Received" : "0",
+  "Advance Used" : "0",
+  "Booked By" : "Prateek",
+  "WorkShop Note" : "",
+  "Order Note" : "",
+  "Home Delivery" : "No",
+  "Area Location" : "",
+  "Garments inspected by" : "",
+  "Customer GSTIN" : "",
+  "Registration Source" : "Walk in Customer",
+  "Order from POS" : "No",
+  "Order Status" : "Unprocessed",
+  "Customer Code" : "Cust5840"
+}, {
+  "Store Name" : "Saket",
+  "Order Date / Time" : "19 Mar 2026 2:00:36 PM",
+  "Order No." : "S3361",
+  "Name" : "r k dhanuja",
+  "Address" : "G 13 gaurab apartment",
+  "Phone" : "9211744444",
+  "Preference" : "NA",
+  "Due Date" : "23 Mar 2026",
+  "Delivered On" : "",
+  "Pcs." : "4",
+  "Weight" : "0",
+  "Gross Amount" : "1030",
+  "Discount" : "515",
+  "Advance" : "0",
+  "Paid" : "0",
+  "Adjustment" : "0",
+  "Balance" : "515",
+  "Advance Received" : "0",
+  "Advance Used" : "0",
+  "Booked By" : "Satish",
+  "WorkShop Note" : "9670273388, satayjeet",
+  "Order Note" : "",
+  "Home Delivery" : "No",
+  "Area Location" : "",
+  "Garments inspected by" : "",
+  "Customer GSTIN" : "",
+  "Registration Source" : "Walk in Customer",
+  "Order from POS" : "No",
+  "Order Status" : "Unprocessed",
+  "Customer Code" : "Cust515"
+}, {
   "Store Name" : "Total Order",
-  "Order Date / Time" : "28",
+  "Order Date / Time" : "32",
   "Order No." : "",
   "Name" : "",
   "Address" : "",
@@ -13400,14 +13524,14 @@ const OrderData = [ {
   "Preference" : "",
   "Due Date" : "",
   "Delivered On" : "",
-  "Pcs." : "116",
+  "Pcs." : "188",
   "Weight" : "41.5",
-  "Gross Amount" : "31342",
-  "Discount" : "1723.05",
+  "Gross Amount" : "44022",
+  "Discount" : "4588.05",
   "Advance" : "0",
   "Paid" : "0",
   "Adjustment" : "0",
-  "Balance" : "29619",
+  "Balance" : "39434",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "",
