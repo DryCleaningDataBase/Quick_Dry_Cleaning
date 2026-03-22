@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "22 Mar 2026",
+  "Narration" : "portor to plant and vice versa",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "700"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "20 Mar 2026",
   "Narration" : "G18406 to driver",
   "Paid To" : "Liaison",
