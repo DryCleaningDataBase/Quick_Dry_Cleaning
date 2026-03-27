@@ -4,10 +4,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 29139.0,
+  "Delivery - Cash" : 29489.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 128789.0,
+  "Delivery - UPI" : 129809.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 557.0
 }, {
@@ -19,7 +19,7 @@
   "Delivery - Cash" : 22822.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 9990.0,
-  "Delivery - UPI" : 15982.0,
+  "Delivery - UPI" : 20798.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 100.0
 }, {
@@ -28,10 +28,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 159647.0,
+  "Delivery - Cash" : 161447.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 6705.0,
-  "Delivery - UPI" : 110736.0,
+  "Delivery - UPI" : 125525.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 10.0
 }, {
@@ -40,10 +40,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 38686.0,
+  "Delivery - Cash" : 39046.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 60778.0,
+  "Delivery - UPI" : 60963.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 0.0
 } ]
