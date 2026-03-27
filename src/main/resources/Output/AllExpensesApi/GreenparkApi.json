@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "27 Mar 2026",
+  "Narration" : "rafu wale uncle ko diye",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "300"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "27 Mar 2026",
+  "Narration" : "G18534 round figure",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "53"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "26 Mar 2026",
   "Narration" : "to jaskarn sir home via apoorv driver",
   "Paid To" : "Office Deposit",
