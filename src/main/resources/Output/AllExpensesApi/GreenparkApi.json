@@ -1,6 +1,30 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "28 Mar 2026",
+  "Narration" : "G18561 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "105"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Mar 2026",
+  "Narration" : "water bill feb and mar",
+  "Paid To" : "Water bill",
+  "Amount" : "3000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Mar 2026",
+  "Narration" : "G18464",
+  "Paid To" : "Liaison",
+  "Amount" : "107"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Mar 2026",
+  "Narration" : "G18535 G18556",
+  "Paid To" : "Liaison",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Mar 2026",
   "Narration" : "G18330 discount",
   "Paid To" : "Accessory supplies",
   "Amount" : "78"
