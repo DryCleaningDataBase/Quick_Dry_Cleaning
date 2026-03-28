@@ -6165,7 +6165,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust2031"
 }, {
   "Store Name" : "CR Park",
@@ -7974,7 +7974,7 @@ const OrderData = [ {
   "Phone" : "9007869435",
   "Preference" : "NA",
   "Due Date" : "19 Mar 2026",
-  "Delivered On" : "22 Mar 2026 7:06:07 PM",
+  "Delivered On" : "28 Mar 2026 5:20:34 PM",
   "Pcs." : "4",
   "Weight" : "0",
   "Gross Amount" : "2590",
@@ -7994,7 +7994,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust1369"
 }, {
   "Store Name" : "CR Park",
@@ -16581,7 +16581,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust2031"
 }, {
   "Store Name" : "CR Park",
