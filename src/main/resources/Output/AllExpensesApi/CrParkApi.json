@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "02 Apr 2026",
+  "Narration" : "Colin Duster  tissue paper",
+  "Paid To" : "Water bill",
+  "Amount" : "200"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "01 Apr 2026",
   "Narration" : "",
   "Paid To" : "Drinking Water",
