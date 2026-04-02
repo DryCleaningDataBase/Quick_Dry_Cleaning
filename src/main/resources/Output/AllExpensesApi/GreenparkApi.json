@@ -1,6 +1,42 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "02 Apr 2026",
+  "Narration" : "G18508 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "101"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
+  "Narration" : "G18467",
+  "Paid To" : "Liaison",
+  "Amount" : "189"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
+  "Narration" : "G18546",
+  "Paid To" : "Liaison",
+  "Amount" : "16"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
+  "Narration" : "G18542",
+  "Paid To" : "Liaison",
+  "Amount" : "139"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
+  "Narration" : "G18523 to driver",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "87"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
+  "Narration" : "G18388",
+  "Paid To" : "Liaison",
+  "Amount" : "191"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Apr 2026",
   "Narration" : "G18407 G18408 G18520 discount to customer",
   "Paid To" : "Accessory supplies",
   "Amount" : "745"
