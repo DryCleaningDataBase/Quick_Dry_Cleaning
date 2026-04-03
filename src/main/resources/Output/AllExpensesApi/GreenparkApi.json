@@ -1,5 +1,35 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "03 Apr 2026",
+  "Narration" : "to mukesh deepu sudhir prateek",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "1600"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "03 Apr 2026",
+  "Narration" : "G18500 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "156"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "03 Apr 2026",
+  "Narration" : "G18473 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "70"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "03 Apr 2026",
+  "Narration" : "G18455 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "269"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "03 Apr 2026",
+  "Narration" : "G18374 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "199"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "02 Apr 2026",
   "Narration" : "G18508 to driver",
   "Paid To" : "Liaison",
