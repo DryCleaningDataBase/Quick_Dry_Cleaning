@@ -1,5 +1,29 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "04 Apr 2026",
+  "Narration" : "G18472 G18541",
+  "Paid To" : "Liaison",
+  "Amount" : "98"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Apr 2026",
+  "Narration" : "G18465 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "97"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Apr 2026",
+  "Narration" : "rafu ke liye amit sharma ka",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Apr 2026",
+  "Narration" : "saket portor in emergency",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "80"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "03 Apr 2026",
   "Narration" : "to mukesh deepu sudhir prateek",
   "Paid To" : "Tea & Refreshments",
