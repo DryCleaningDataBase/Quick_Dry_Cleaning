@@ -1,0 +1,15 @@
+name: Trigger GAS on Deployment
+
+on:
+  deployment_status:
+
+jobs:
+  on_success:
+    if: github.event.deployment_status.state == 'success'
+    runs-on: ubuntu-latest
+    environment: developer
+    steps:
+      - name: Trigger Google Apps Script
+        run: |
+          echo "Deployment is LIVE. Refreshing Sheets..."
+          curl -L "${{ secrets.GAS_URL_SHEET }}"
