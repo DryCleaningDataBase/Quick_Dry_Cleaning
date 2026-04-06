@@ -1,5 +1,29 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "06 Apr 2026",
+  "Narration" : "magic solvent chemical",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "150"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "06 Apr 2026",
+  "Narration" : "G18662 discount",
+  "Paid To" : "Liaison",
+  "Amount" : "234"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "06 Apr 2026",
+  "Narration" : "G18597",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "215"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "06 Apr 2026",
+  "Narration" : "G18624 discount",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "65"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "05 Apr 2026",
   "Narration" : "G18618 to driver",
   "Paid To" : "Liaison",
