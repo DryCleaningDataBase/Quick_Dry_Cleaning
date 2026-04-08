@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "08 Apr 2026",
+  "Narration" : "kude wale ko diye",
+  "Paid To" : "Waste disposal",
+  "Amount" : "300"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "08 Apr 2026",
+  "Narration" : "G18586",
+  "Paid To" : "Liaison",
+  "Amount" : "35"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "06 Apr 2026",
   "Narration" : "G18590",
   "Paid To" : "Liaison",
