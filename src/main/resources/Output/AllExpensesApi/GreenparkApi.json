@@ -1,5 +1,29 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "09 Apr 2026",
+  "Narration" : "portor plant to greenpark",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "800"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "09 Apr 2026",
+  "Narration" : "wire repair",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "09 Apr 2026",
+  "Narration" : "G18484 = 1050 G17990 = 350 G17913 = 350 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "175"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "09 Apr 2026",
+  "Narration" : "G18676 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "08 Apr 2026",
   "Narration" : "kude wale ko diye",
   "Paid To" : "Waste disposal",
