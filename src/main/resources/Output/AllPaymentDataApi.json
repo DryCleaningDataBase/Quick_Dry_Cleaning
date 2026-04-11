@@ -4,12 +4,12 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 980.0,
-  "Delivery - Cash" : 15252.0,
+  "Delivery - Cash" : 16584.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 4015.0,
-  "Delivery - UPI" : 34955.0,
+  "Delivery - UPI" : 35875.0,
   "Package - Sale" : 0.0,
-  "Customer Advance" : 200.0
+  "Customer Advance" : 368.0
 }, {
   "Location" : "Defence Colony",
   "Advance - Cash" : 0.0,
@@ -28,10 +28,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 76142.0,
+  "Delivery - Cash" : 76511.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 55885.0,
+  "Delivery - UPI" : 57883.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 0.0
 }, {
@@ -40,10 +40,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 19637.0,
+  "Delivery - Cash" : 20648.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 2600.0,
-  "Delivery - UPI" : 12197.0,
+  "Delivery - UPI" : 13595.0,
   "Package - Sale" : 0.0,
-  "Customer Advance" : 0.0
+  "Customer Advance" : 9.0
 } ]
