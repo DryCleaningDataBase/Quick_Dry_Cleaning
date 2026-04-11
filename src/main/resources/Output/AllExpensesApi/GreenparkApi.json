@@ -1,6 +1,24 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "11 Apr 2026",
+  "Narration" : "G18689 to discount",
+  "Paid To" : "Liaison",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "11 Apr 2026",
+  "Narration" : "G18609 discount",
+  "Paid To" : "Accessory supplies",
+  "Amount" : "189"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "11 Apr 2026",
+  "Narration" : "G18629 to driver",
+  "Paid To" : "Liaison",
+  "Amount" : "199"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "11 Apr 2026",
   "Narration" : "water tanki ke dhakkan",
   "Paid To" : "Accessory supplies",
   "Amount" : "750"
