@@ -10,6 +10,7 @@ jobs:
   on_success:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
+    environment: developer
     steps:
       - name: Trigger Google Apps Script
         run: |
