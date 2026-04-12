@@ -2,7 +2,7 @@ name: QuickDryCleaningData
 
 on:
   schedule:
-    - cron: '33 3-15/1 * * *' 
+    - cron: '31 3-15/1 * * *' 
   workflow_dispatch:
 
 jobs:
