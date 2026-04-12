@@ -1,15 +1,17 @@
-name: Trigger GAS on Deployment
+name: Trigger GAS on Pages Success
 
 on:
-  deployment_status:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
 
 jobs:
   on_success:
-    if: github.event.deployment_status.state == 'success'
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    environment: developer
     steps:
       - name: Trigger Google Apps Script
         run: |
-          echo "Deployment is LIVE. Refreshing Sheets..."
+          echo "Pages Deployment is LIVE. Refreshing Sheets..."
           curl -L "${{ secrets.GAS_URL_SHEET }}"
