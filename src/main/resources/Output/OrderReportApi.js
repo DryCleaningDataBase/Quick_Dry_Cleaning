@@ -6269,15 +6269,15 @@ const OrderData = [ {
   "Phone" : "8114457530",
   "Preference" : "NA",
   "Due Date" : "13 Apr 2026",
-  "Delivered On" : "",
+  "Delivered On" : "17 Apr 2026 11:09:02 AM",
   "Pcs." : "2",
   "Weight" : "0",
   "Gross Amount" : "420",
   "Discount" : "0",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "420",
   "Adjustment" : "0",
-  "Balance" : "420",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -6289,7 +6289,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust5018"
 }, {
   "Store Name" : "Greenpark",
@@ -9375,9 +9375,9 @@ const OrderData = [ {
   "Gross Amount" : "96075",
   "Discount" : "6120.05",
   "Advance" : "168",
-  "Paid" : "13289",
+  "Paid" : "13709",
   "Adjustment" : "0",
-  "Balance" : "76666",
+  "Balance" : "76246",
   "Advance Received" : "0",
   "Advance Used" : "168",
   "Booked By" : "",
@@ -9978,7 +9978,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust6973"
 }, {
   "Store Name" : "Greenpark",
@@ -10009,7 +10009,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust5480"
 }, {
   "Store Name" : "Greenpark",
@@ -10040,7 +10040,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust6819"
 }, {
   "Store Name" : "Greenpark",
@@ -10071,7 +10071,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust6118"
 }, {
   "Store Name" : "Saket",
