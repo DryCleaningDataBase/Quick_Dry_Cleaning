@@ -12593,7 +12593,7 @@ const OrderData = [ {
   "Phone" : "9768802802",
   "Preference" : "NA",
   "Due Date" : "22 Apr 2026",
-  "Delivered On" : "20 Apr 2026 8:02:35 PM",
+  "Delivered On" : "20 Apr 2026 11:03:05 AM",
   "Pcs." : "4",
   "Weight" : "0",
   "Gross Amount" : "765",
