@@ -9358,7 +9358,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust936"
 }, {
   "Store Name" : "Total Order",
@@ -11435,7 +11435,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust612"
 }, {
   "Store Name" : "Saket",
@@ -11466,7 +11466,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust612"
 }, {
   "Store Name" : "Saket",
@@ -11497,7 +11497,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6822"
 }, {
   "Store Name" : "CR Park",
@@ -13895,7 +13895,7 @@ const OrderData = [ {
   "Phone" : "6395210575",
   "Preference" : "NA",
   "Due Date" : "24 Apr 2026",
-  "Delivered On" : "25 Apr 2026 5:37:52 PM",
+  "Delivered On" : "25 Apr 2026 11:18:25 AM",
   "Pcs." : "1",
   "Weight" : "3.5",
   "Gross Amount" : "420",
