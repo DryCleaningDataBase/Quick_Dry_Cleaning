@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "29 Apr 2026",
+  "Narration" : "water botal",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "27 Apr 2026",
   "Narration" : "Customer t shirt Rafoo",
   "Paid To" : "Accessory Bills",
