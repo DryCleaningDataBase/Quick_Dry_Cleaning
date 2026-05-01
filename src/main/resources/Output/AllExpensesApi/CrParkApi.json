@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "CR Park",
   "Date" : "01 May 2026",
+  "Narration" : "CASH GIVEN TO ANTY HAND ...",
+  "Paid To" : "Maintenance",
+  "Amount" : "25000"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "01 May 2026",
   "Narration" : "Prabhakar Tea wala.",
   "Paid To" : "Maintenance",
   "Amount" : "400"
