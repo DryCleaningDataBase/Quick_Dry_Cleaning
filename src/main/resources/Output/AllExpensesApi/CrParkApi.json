@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "CR Park",
   "Date" : "01 May 2026",
+  "Narration" : "Prabhakar Tea wala.",
+  "Paid To" : "Maintenance",
+  "Amount" : "400"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "01 May 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
   "Amount" : "100"
