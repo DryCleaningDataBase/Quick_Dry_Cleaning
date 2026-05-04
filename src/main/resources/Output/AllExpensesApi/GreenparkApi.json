@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "04 May 2026",
+  "Narration" : "",
+  "Paid To" : "Waste disposal",
+  "Amount" : "300"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "03 May 2026",
   "Narration" : "to sudhir rohan deepu prateek",
   "Paid To" : "Tea & Refreshments",
