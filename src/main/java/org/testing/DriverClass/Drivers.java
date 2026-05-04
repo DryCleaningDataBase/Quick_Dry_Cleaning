@@ -5,6 +5,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import java.util.Collections;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Drivers {
     
@@ -24,7 +26,7 @@ public class Drivers {
         options.setExperimentalOption("useAutomationExtension", false);
         
         options.addArguments("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36");
-
+		Logger.getLogger("org.openqa.selenium").setLevel(Level.SEVERE);
         return new ChromeDriver(options);
     }
 }
