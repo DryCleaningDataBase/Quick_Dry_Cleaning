@@ -4398,7 +4398,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust6162"
 }, {
   "Store Name" : "CR Park",
@@ -4429,7 +4429,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust7022"
 }, {
   "Store Name" : "CR Park",
@@ -4460,7 +4460,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Unprocessed",
+  "Order Status" : "Inprocessing",
   "Customer Code" : "Cust1634"
 }, {
   "Store Name" : "Defence Colony",
@@ -4688,15 +4688,15 @@ const OrderData = [ {
   "Phone" : "9810229143",
   "Preference" : "NA",
   "Due Date" : "10 May 2026",
-  "Delivered On" : "",
+  "Delivered On" : "10 May 2026 6:52:11 PM",
   "Pcs." : "2",
   "Weight" : "0",
   "Gross Amount" : "300",
   "Discount" : "0",
   "Advance" : "0",
-  "Paid" : "0",
+  "Paid" : "300",
   "Adjustment" : "0",
-  "Balance" : "300",
+  "Balance" : "0",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "Prateek",
@@ -4880,9 +4880,9 @@ const OrderData = [ {
   "Gross Amount" : "59736",
   "Discount" : "5652.5",
   "Advance" : "0",
-  "Paid" : "750",
+  "Paid" : "1050",
   "Adjustment" : "296",
-  "Balance" : "53039",
+  "Balance" : "52739",
   "Advance Received" : "0",
   "Advance Used" : "0",
   "Booked By" : "",
