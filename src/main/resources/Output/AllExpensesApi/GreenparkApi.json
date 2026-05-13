@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "13 May 2026",
+  "Narration" : "portor plant to greenpark",
+  "Paid To" : "Logistics",
+  "Amount" : "355"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "13 May 2026",
+  "Narration" : "",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "09 May 2026",
   "Narration" : "to sudhir",
   "Paid To" : "Office Deposit",
