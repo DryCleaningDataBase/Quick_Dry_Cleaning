@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "15 May 2026",
+  "Narration" : "advance to 1000 ajay bike rider",
+  "Paid To" : "Maintenance",
+  "Amount" : "1000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "15 May 2026",
+  "Narration" : "portor plant to greenpark and green park to plant both of side",
+  "Paid To" : "Logistics",
+  "Amount" : "800"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "15 May 2026",
   "Narration" : "G18966 driver commission",
   "Paid To" : "Accessory Bills",
   "Amount" : "135"
