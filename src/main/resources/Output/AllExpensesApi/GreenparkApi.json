@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "17 May 2026",
+  "Narration" : "auto plant to green park",
+  "Paid To" : "Logistics",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "17 May 2026",
   "Narration" : "G19013 driver commission",
   "Paid To" : "Liaison",
   "Amount" : "100"
