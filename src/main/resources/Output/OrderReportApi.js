@@ -5277,7 +5277,7 @@ const OrderData = [ {
   "Phone" : "8800227767",
   "Preference" : "NA",
   "Due Date" : "18 May 2026",
-  "Delivered On" : "18 May 2026 7:55:28 PM",
+  "Delivered On" : "24 May 2026 12:47:14 PM",
   "Pcs." : "2",
   "Weight" : "0",
   "Gross Amount" : "509",
@@ -5297,7 +5297,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Ready",
+  "Order Status" : "Delivered",
   "Customer Code" : "Cust6230"
 }, {
   "Store Name" : "Greenpark",
@@ -9916,7 +9916,7 @@ const OrderData = [ {
   "Customer GSTIN" : "",
   "Registration Source" : "Walk in Customer",
   "Order from POS" : "No",
-  "Order Status" : "Inprocessing",
+  "Order Status" : "Ready",
   "Customer Code" : "Cust6766"
 }, {
   "Store Name" : "Defence Colony",
