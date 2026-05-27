@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "27 May 2026",
+  "Narration" : "rohan drop at home cash",
+  "Paid To" : "Office Deposit",
+  "Amount" : "50000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "27 May 2026",
+  "Narration" : "G19070 driver commission",
+  "Paid To" : "Liaison",
+  "Amount" : "707"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "25 May 2026",
   "Narration" : "G19119 driver commission",
   "Paid To" : "Accessory Bills",
