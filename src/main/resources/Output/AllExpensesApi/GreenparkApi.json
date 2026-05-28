@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "28 May 2026",
+  "Narration" : "mcd tax for gurgaon for gaddi",
+  "Paid To" : "Logistics",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 May 2026",
+  "Narration" : "rapido for gurgaon",
+  "Paid To" : "Logistics",
+  "Amount" : "180"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 May 2026",
   "Narration" : "G19082 commision",
   "Paid To" : "Liaison",
   "Amount" : "410"
