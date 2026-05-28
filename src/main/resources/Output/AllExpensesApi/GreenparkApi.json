@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "28 May 2026",
+  "Narration" : "G19082 commision",
+  "Paid To" : "Liaison",
+  "Amount" : "410"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 May 2026",
+  "Narration" : "portor plant to green park and green park to plant both of side",
+  "Paid To" : "Logistics",
+  "Amount" : "800"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 May 2026",
+  "Narration" : "haldiram sweets and ac remote",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "950"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "27 May 2026",
   "Narration" : "rohan drop at home cash",
   "Paid To" : "Office Deposit",
