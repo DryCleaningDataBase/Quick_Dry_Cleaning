@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "01 Jun 2026",
+  "Narration" : "satish sudhir deepu rohan ajay tea expenses",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "2000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "01 Jun 2026",
   "Narration" : "54 bottel dec to may",
   "Paid To" : "Drinking Water",
   "Amount" : "2700"
