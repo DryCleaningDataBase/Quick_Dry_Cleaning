@@ -4,10 +4,10 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 24078.0,
+  "Delivery - Cash" : 252.0,
   "Delivery - Cheque/Bank" : 0.0,
-  "Delivery - Credit Card/Debit Card" : 6184.0,
-  "Delivery - UPI" : 71472.0,
+  "Delivery - Credit Card/Debit Card" : 0.0,
+  "Delivery - UPI" : 0.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 0.0
 }, {
@@ -16,34 +16,34 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 11211.0,
+  "Delivery - Cash" : 420.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
-  "Delivery - UPI" : 53246.0,
-  "Package - Sale" : 30000.0,
-  "Customer Advance" : 30358.0
+  "Delivery - UPI" : 0.0,
+  "Package - Sale" : 0.0,
+  "Customer Advance" : 0.0
 }, {
   "Location" : "Greenpark",
   "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 177775.0,
+  "Delivery - Cash" : 2706.0,
   "Delivery - Cheque/Bank" : 0.0,
-  "Delivery - Credit Card/Debit Card" : 15417.0,
-  "Delivery - UPI" : 143998.0,
+  "Delivery - Credit Card/Debit Card" : 0.0,
+  "Delivery - UPI" : 6419.0,
   "Package - Sale" : 0.0,
-  "Customer Advance" : 531.0
+  "Customer Advance" : 0.0
 }, {
   "Location" : "Saket",
   "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 18481.0,
+  "Delivery - Cash" : 0.0,
   "Delivery - Cheque/Bank" : 0.0,
-  "Delivery - Credit Card/Debit Card" : 1867.0,
-  "Delivery - UPI" : 30971.0,
+  "Delivery - Credit Card/Debit Card" : 0.0,
+  "Delivery - UPI" : 530.0,
   "Package - Sale" : 0.0,
   "Customer Advance" : 0.0
 } ]
