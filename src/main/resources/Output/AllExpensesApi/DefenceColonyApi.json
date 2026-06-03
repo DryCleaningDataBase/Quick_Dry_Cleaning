@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "03 Jun 2026",
+  "Narration" : "water botal",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "03 Jun 2026",
+  "Narration" : "priyanshu tea",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "02 Jun 2026",
   "Narration" : "Adjusted in may priyanshu SALARY TO MATCH CASH IN HAND",
   "Paid To" : "Office Deposit",
