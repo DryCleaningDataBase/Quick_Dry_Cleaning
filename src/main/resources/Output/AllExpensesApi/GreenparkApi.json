@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "04 Jun 2026",
+  "Narration" : "cash handover to ajay at sir home",
+  "Paid To" : "Office Deposit",
+  "Amount" : "41000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Jun 2026",
+  "Narration" : "g19176 .19175..19129 driver commission",
+  "Paid To" : "Liaison",
+  "Amount" : "2470"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "03 Jun 2026",
   "Narration" : "dump collection",
   "Paid To" : "Waste disposal",
