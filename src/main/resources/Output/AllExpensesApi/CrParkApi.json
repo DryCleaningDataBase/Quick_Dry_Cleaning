@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "06 Jun 2026",
+  "Narration" : "01 BOTTLE FOR COOLER",
+  "Paid To" : "Water bill",
+  "Amount" : "200"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "03 Jun 2026",
   "Narration" : "Prabhakar tea",
   "Paid To" : "Maintenance",
