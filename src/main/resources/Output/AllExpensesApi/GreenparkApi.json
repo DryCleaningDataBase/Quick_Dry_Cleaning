@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "11 Jun 2026",
+  "Narration" : "cash handover to ajay giving cr park",
+  "Paid To" : "Office Deposit",
+  "Amount" : "30000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "11 Jun 2026",
+  "Narration" : "tag gun needles",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "285"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "10 Jun 2026",
   "Narration" : "ev mirrior",
   "Paid To" : "Maintenance",
