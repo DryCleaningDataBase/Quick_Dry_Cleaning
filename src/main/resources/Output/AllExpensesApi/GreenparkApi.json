@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "12 Jun 2026",
+  "Narration" : "give to sonu advance cash",
+  "Paid To" : "Office Deposit",
+  "Amount" : "3000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "11 Jun 2026",
   "Narration" : "cash handover to ajay giving cr park",
   "Paid To" : "Office Deposit",
