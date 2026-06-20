@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "20 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
   "Date" : "19 Jun 2026",
   "Narration" : "colin",
   "Paid To" : "Maintenance",
