@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "21 Jun 2026",
+  "Narration" : "18.06.2026",
+  "Paid To" : "Water bill",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "15 Jun 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
