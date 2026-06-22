@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "22 Jun 2026",
+  "Narration" : "Msil",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "20"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "22 Jun 2026",
+  "Narration" : "tea",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "20 Jun 2026",
   "Narration" : "Nimboo mirch 2 month june july",
   "Paid To" : "Accessory Bills",
