@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "24 Jun 2026",
+  "Narration" : "cash deposit send to green park ajay kumar sir",
+  "Paid To" : "Office Deposit",
+  "Amount" : "10000"
+}, {
+  "Store Name" : "Saket",
   "Date" : "21 Jun 2026",
   "Narration" : "Sanjay electric wire",
   "Paid To" : "Maintenance",
