@@ -1,1 +1,61 @@
-[ ]
+[ {
+  "Store Name" : "Saket",
+  "Date" : "24 Jun 2026",
+  "Narration" : "cash deposit send to green park ajay kumar sir",
+  "Paid To" : "Office Deposit",
+  "Amount" : "10000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "21 Jun 2026",
+  "Narration" : "Sanjay electric wire",
+  "Paid To" : "Maintenance",
+  "Amount" : "500"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "21 Jun 2026",
+  "Narration" : "tea and samosa and tape",
+  "Paid To" : "Maintenance",
+  "Amount" : "170"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "20 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "20 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "19 Jun 2026",
+  "Narration" : "colin",
+  "Paid To" : "Maintenance",
+  "Amount" : "115"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "19 Jun 2026",
+  "Narration" : "Nylon sleeves",
+  "Paid To" : "Maintenance",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "04 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "04 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "03 Jun 2026",
+  "Narration" : "manoj unkal ji",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "400"
+} ]
