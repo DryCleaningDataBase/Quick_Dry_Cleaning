@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "25 Jun 2026",
+  "Narration" : "Cold drink for ac installation & wood worker person",
+  "Paid To" : "Water bill",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "25 Jun 2026",
+  "Narration" : "",
+  "Paid To" : "Water bill",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "21 Jun 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
