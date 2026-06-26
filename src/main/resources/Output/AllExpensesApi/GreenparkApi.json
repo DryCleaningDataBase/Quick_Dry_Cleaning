@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "26 Jun 2026",
+  "Narration" : "rangcart ..dana...stain off...by sudhir",
+  "Paid To" : "Chemical Supplies",
+  "Amount" : "500"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "26 Jun 2026",
+  "Narration" : "G19372",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "118"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "22 Jun 2026",
   "Narration" : "G19335 driver commission",
   "Paid To" : "Liaison",
