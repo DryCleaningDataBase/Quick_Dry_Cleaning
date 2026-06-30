@@ -32,7 +32,7 @@
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 854.0,
   "Delivery - UPI" : 0.0,
-  "Package - Sale" : 0.0,
+  "Package - Sale" : 60000.0,
   "Customer Advance" : 40.0
 }, {
   "Location" : "Saket",
