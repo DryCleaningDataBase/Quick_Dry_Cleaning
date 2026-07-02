@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "02 Jul 2026",
+  "Narration" : "sonu press men",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "02 Jul 2026",
+  "Narration" : "satish ..rohan..ajay..deepu..sudhir..",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "2000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "01 Jul 2026",
   "Narration" : "cash handover to ajay giving cr park",
   "Paid To" : "Office Deposit",
