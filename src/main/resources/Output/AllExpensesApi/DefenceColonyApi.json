@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "03 Jul 2026",
+  "Narration" : "A c indore pipe",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "110"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "03 Jul 2026",
+  "Narration" : "A C pipe",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "40"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "02 Jul 2026",
   "Narration" : "tea",
   "Paid To" : "Accessory Bills",
