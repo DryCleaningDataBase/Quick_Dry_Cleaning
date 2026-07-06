@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "06 Jul 2026",
+  "Narration" : "new scissor",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "180"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "06 Jul 2026",
+  "Narration" : "G19422 commission",
+  "Paid To" : "Liaison",
+  "Amount" : "132"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "02 Jul 2026",
   "Narration" : "sonu press men",
   "Paid To" : "Tea & Refreshments",
