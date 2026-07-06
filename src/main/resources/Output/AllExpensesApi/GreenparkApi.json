@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "06 Jul 2026",
+  "Narration" : "g19456....g19449..",
+  "Paid To" : "Liaison",
+  "Amount" : "340"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "06 Jul 2026",
   "Narration" : "new scissor",
   "Paid To" : "Stationary Supplies",
   "Amount" : "180"
