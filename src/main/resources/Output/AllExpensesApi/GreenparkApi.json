@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "08 Jul 2026",
+  "Narration" : "remote cell and feviquick",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "08 Jul 2026",
+  "Narration" : "giving to deepak ji machine repair",
+  "Paid To" : "Office Deposit",
+  "Amount" : "24000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "06 Jul 2026",
   "Narration" : "dump collection",
   "Paid To" : "Waste disposal",
