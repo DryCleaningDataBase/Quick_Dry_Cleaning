@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "09 Jul 2026",
+  "Narration" : "SAMSUNG S8 PHONE REPAIR",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "1800"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "09 Jul 2026",
+  "Narration" : "SAMSUNG S8 PHONE COVER  TEMPER GLASS  RAIN MOBILE COVER",
+  "Paid To" : "Maintenance",
+  "Amount" : "350"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "05 Jul 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
