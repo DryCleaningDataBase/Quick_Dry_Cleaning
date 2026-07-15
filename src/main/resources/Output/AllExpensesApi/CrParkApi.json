@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "CR Park",
   "Date" : "15 Jul 2026",
+  "Narration" : "Aggarbati & Pocha",
+  "Paid To" : "Maintenance",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "15 Jul 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
   "Amount" : "100"
