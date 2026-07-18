@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "18 Jul 2026",
+  "Narration" : "stain off liquid or danaa",
+  "Paid To" : "Chemical Supplies",
+  "Amount" : "160"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "18 Jul 2026",
+  "Narration" : "g19521.g19553.g19491.g19523.g19534.g19557.g19577...driver commission",
+  "Paid To" : "Liaison",
+  "Amount" : "431"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "18 Jul 2026",
   "Narration" : "sent to jaskaran sir home via Vivek",
   "Paid To" : "Liaison",
   "Amount" : "25940"

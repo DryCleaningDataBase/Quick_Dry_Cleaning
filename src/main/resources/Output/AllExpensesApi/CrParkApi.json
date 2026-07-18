@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "CR Park",
   "Date" : "18 Jul 2026",
+  "Narration" : "SUTTER GRESSING",
+  "Paid To" : "Maintenance",
+  "Amount" : "300"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "18 Jul 2026",
   "Narration" : "CASH SEND THROUGH VIVEK HAND.",
   "Paid To" : "Office Deposit",
   "Amount" : "10000"
