@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "18 Jul 2026",
+  "Narration" : "sent to jaskaran sir home via Vivek",
+  "Paid To" : "Liaison",
+  "Amount" : "25940"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "18 Jul 2026",
+  "Narration" : "press boot and press road",
+  "Paid To" : "Packaging Material",
+  "Amount" : "1060"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "18 Jul 2026",
+  "Narration" : "delhi jal board jitender",
+  "Paid To" : "Water bill",
+  "Amount" : "3000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "08 Jul 2026",
   "Narration" : "remote cell and feviquick",
   "Paid To" : "Stationary Supplies",
