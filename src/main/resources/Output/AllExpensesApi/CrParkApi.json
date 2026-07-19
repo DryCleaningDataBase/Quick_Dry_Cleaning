@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "19 Jul 2026",
+  "Narration" : "FLOWER & PUJA CLOTHS.",
+  "Paid To" : "Maintenance",
+  "Amount" : "60"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "19 Jul 2026",
+  "Narration" : "",
+  "Paid To" : "Water bill",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "18 Jul 2026",
   "Narration" : "SUTTER GRESSING",
   "Paid To" : "Maintenance",
