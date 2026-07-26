@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "26 Jul 2026",
+  "Narration" : "broom ...(jhaadu)",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "120"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "26 Jul 2026",
+  "Narration" : "sent to jaskaran sir home via Vivek",
+  "Paid To" : "Office Deposit",
+  "Amount" : "24000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "20 Jul 2026",
   "Narration" : "G19492..g19539... driver commission",
   "Paid To" : "Liaison",

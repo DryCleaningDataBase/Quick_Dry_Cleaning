@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "CR Park",
   "Date" : "26 Jul 2026",
+  "Narration" : "cash given to  sir",
+  "Paid To" : "Office Deposit",
+  "Amount" : "10000"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "26 Jul 2026",
   "Narration" : "",
   "Paid To" : "Accessory Bills",
   "Amount" : "20"
