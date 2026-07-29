@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "29 Jul 2026",
+  "Narration" : "carry bag porter",
+  "Paid To" : "Logistics",
+  "Amount" : "810"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "29 Jul 2026",
   "Narration" : "g19622...g19647..",
   "Paid To" : "Liaison",
   "Amount" : "232"
