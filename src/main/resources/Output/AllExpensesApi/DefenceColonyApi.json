@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "30 Jul 2026",
+  "Narration" : "lock",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "550"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "24 Jul 2026",
   "Narration" : "commision",
   "Paid To" : "Accessory Bills",
