@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "01 Aug 2026",
+  "Narration" : "manoj rao yadav",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "01 Aug 2026",
   "Narration" : "water one bottle",
   "Paid To" : "Water bill",
   "Amount" : "50"
