@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "02 Aug 2026",
+  "Narration" : "Ac out of store",
+  "Paid To" : "Maintenance",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "02 Aug 2026",
   "Narration" : "incense stcks 2 box",
   "Paid To" : "Maintenance",
   "Amount" : "120"

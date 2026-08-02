@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "02 Aug 2026",
+  "Narration" : "open gate door repair",
+  "Paid To" : "Maintenance",
+  "Amount" : "1500"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "01 Aug 2026",
   "Narration" : "ajay ..rohan..sudhir..sonu..deepu..satish ..tea expense",
   "Paid To" : "Tea & Refreshments",
