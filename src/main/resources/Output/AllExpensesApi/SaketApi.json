@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "06 Aug 2026",
+  "Narration" : "lock keys strike",
+  "Paid To" : "Maintenance",
+  "Amount" : "150"
+}, {
+  "Store Name" : "Saket",
   "Date" : "05 Aug 2026",
   "Narration" : "sandeep",
   "Paid To" : "Office Deposit",
