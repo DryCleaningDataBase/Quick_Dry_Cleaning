@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "06 Aug 2026",
+  "Narration" : "bank deposit",
+  "Paid To" : "Bank Deposit",
+  "Amount" : "4500"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "05 Aug 2026",
   "Narration" : "dump collection",
   "Paid To" : "Waste disposal",
