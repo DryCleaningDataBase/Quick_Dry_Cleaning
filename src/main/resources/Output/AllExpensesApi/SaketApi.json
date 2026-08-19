@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "19 Aug 2026",
+  "Narration" : "bick parking  Select City Walk.",
+  "Paid To" : "Maintenance",
+  "Amount" : "40"
+}, {
+  "Store Name" : "Saket",
   "Date" : "16 Aug 2026",
   "Narration" : "manoj",
   "Paid To" : "Water bill",
