@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "22 Aug 2026",
+  "Narration" : "NIMBU & KACHARA WALA",
+  "Paid To" : "Maintenance",
+  "Amount" : "50"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "20 Aug 2026",
   "Narration" : "",
   "Paid To" : "Drinking Water",
