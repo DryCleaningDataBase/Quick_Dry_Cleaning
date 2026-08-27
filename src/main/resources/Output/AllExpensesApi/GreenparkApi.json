@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "27 Aug 2026",
+  "Narration" : "advance to sudhir",
+  "Paid To" : "Office Deposit",
+  "Amount" : "3000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "24 Aug 2026",
   "Narration" : "G19814 driver commission",
   "Paid To" : "Accessory Bills",
