@@ -1,1 +1,13 @@
-[ ]
+[ {
+  "Store Name" : "CR Park",
+  "Date" : "02 Sep 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "02 Sep 2026",
+  "Narration" : "KEYSLOCK",
+  "Paid To" : "Logistics",
+  "Amount" : "150"
+} ]
