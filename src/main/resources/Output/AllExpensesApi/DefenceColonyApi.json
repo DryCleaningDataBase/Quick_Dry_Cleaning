@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Defence Colony",
   "Date" : "04 Sep 2026",
+  "Narration" : "priyanshu",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "04 Sep 2026",
+  "Narration" : "room freshner",
+  "Paid To" : "Maintenance",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "04 Sep 2026",
   "Narration" : "bill no 3289",
   "Paid To" : "commission",
   "Amount" : "58"
