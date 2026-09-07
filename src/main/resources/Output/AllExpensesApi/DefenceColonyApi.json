@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "07 Sep 2026",
+  "Narration" : "electricity bill",
+  "Paid To" : "Electricity Bill",
+  "Amount" : "1810"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "04 Sep 2026",
   "Narration" : "priyanshu",
   "Paid To" : "Tea & Refreshments",
