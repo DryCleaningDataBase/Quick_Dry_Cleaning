@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "12 Sep 2026",
+  "Narration" : "nibu and mirch [2 month]",
+  "Paid To" : "Maintenance",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "12 Sep 2026",
+  "Narration" : "dustbin bag",
+  "Paid To" : "Maintenance",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "11 Sep 2026",
   "Narration" : "photo copy",
   "Paid To" : "Stationary Supplies",
