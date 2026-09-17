@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "17 Sep 2026",
+  "Narration" : "Ganeder Kamat (s3793)",
+  "Paid To" : "Liaison",
+  "Amount" : "98"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "17 Sep 2026",
+  "Narration" : "cash deposit send to green park ajay ji",
+  "Paid To" : "Office Deposit",
+  "Amount" : "17000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "17 Sep 2026",
   "Narration" : "Darayus Nariman (s3775)",
   "Paid To" : "Liaison",
   "Amount" : "240"
