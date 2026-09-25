@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "25 Sep 2026",
+  "Narration" : "hand wash ...m seal...",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "200"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "25 Sep 2026",
+  "Narration" : "deepak machine repair",
+  "Paid To" : "Maintenance",
+  "Amount" : "2000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "25 Sep 2026",
+  "Narration" : "sanjay bhaiya for wall fan and mcb",
+  "Paid To" : "Maintenance",
+  "Amount" : "700"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "23 Sep 2026",
   "Narration" : "sent to jaskaran sir home via Vivek",
   "Paid To" : "Office Deposit",
