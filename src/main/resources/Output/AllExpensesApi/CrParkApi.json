@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "24 Sep 2026",
+  "Narration" : "FLOWERS",
+  "Paid To" : "Maintenance",
+  "Amount" : "10"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "24 Sep 2026",
+  "Narration" : "dress broches",
+  "Paid To" : "DC Outsourced",
+  "Amount" : "360"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "17 Sep 2026",
   "Narration" : "",
   "Paid To" : "Tea & Refreshments",
