@@ -1,5 +1,29 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "28 Sep 2026",
+  "Narration" : "Darayus Nariman(S3797 S3814)",
+  "Paid To" : "Liaison",
+  "Amount" : "188"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Sep 2026",
+  "Narration" : "cash deposit send to green park ajay ji",
+  "Paid To" : "Liaison",
+  "Amount" : "5000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Sep 2026",
+  "Narration" : "Santosh (S3813)",
+  "Paid To" : "Liaison",
+  "Amount" : "298"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Sep 2026",
+  "Narration" : "cash deposit send to green park ajay ji",
+  "Paid To" : "Office Deposit",
+  "Amount" : "11000"
+}, {
+  "Store Name" : "Saket",
   "Date" : "23 Sep 2026",
   "Narration" : "Nerash (s3795)",
   "Paid To" : "Liaison",
