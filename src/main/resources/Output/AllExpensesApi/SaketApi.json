@@ -1,1 +1,13 @@
-[ ]
+[ {
+  "Store Name" : "Saket",
+  "Date" : "01 Oct 2026",
+  "Narration" : "manoj roa",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "01 Oct 2026",
+  "Narration" : "office chair",
+  "Paid To" : "Maintenance",
+  "Amount" : "500"
+} ]
