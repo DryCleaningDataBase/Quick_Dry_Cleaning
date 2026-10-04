@@ -1,1 +1,13 @@
-[ ]
+[ {
+  "Store Name" : "CR Park",
+  "Date" : "04 Oct 2026",
+  "Narration" : "DELIVERY BEG CHAIN",
+  "Paid To" : "Packaging Material",
+  "Amount" : "120"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "04 Oct 2026",
+  "Narration" : "FLOWERS",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "10"
+} ]
