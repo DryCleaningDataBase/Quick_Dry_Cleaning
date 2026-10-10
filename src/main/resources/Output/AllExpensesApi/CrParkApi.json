@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "10 Oct 2026",
+  "Narration" : "nimbu mirchi",
+  "Paid To" : "Maintenance",
+  "Amount" : "50"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "08 Oct 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
