@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "14 Oct 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
   "Date" : "12 Oct 2026",
   "Narration" : "Karnal Shab (S3840)",
   "Paid To" : "Liaison",
