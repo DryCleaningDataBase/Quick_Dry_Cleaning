@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Defence Colony",
   "Date" : "16 Oct 2026",
+  "Narration" : "print out rajesh bill",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "40"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "16 Oct 2026",
   "Narration" : "commision 3383",
   "Paid To" : "Liaison",
   "Amount" : "200"
