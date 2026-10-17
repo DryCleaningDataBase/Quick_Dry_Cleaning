@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "17 Oct 2026",
+  "Narration" : "Nimboo mirch 2 month",
+  "Paid To" : "Liaison",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "16 Oct 2026",
   "Narration" : "print out rajesh bill",
   "Paid To" : "Stationary Supplies",
