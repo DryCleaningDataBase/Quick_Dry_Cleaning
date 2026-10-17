@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Defence Colony",
   "Date" : "17 Oct 2026",
+  "Narration" : "commision 3327 3343 3354 3378",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "670"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "17 Oct 2026",
+  "Narration" : "commision 3350",
+  "Paid To" : "Liaison",
+  "Amount" : "380"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "17 Oct 2026",
   "Narration" : "Nimboo mirch 2 month",
   "Paid To" : "Liaison",
   "Amount" : "100"
