@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "17 Oct 2026",
+  "Narration" : "g20272   g20283  g20293 5% commission",
+  "Paid To" : "Liaison",
+  "Amount" : "103"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "17 Oct 2026",
+  "Narration" : "urgent laundry send by porter to cr park",
+  "Paid To" : "Logistics",
+  "Amount" : "92"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "17 Oct 2026",
   "Narration" : "g20240 driver commission",
   "Paid To" : "Liaison",
   "Amount" : "150"
