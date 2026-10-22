@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "22 Oct 2026",
+  "Narration" : "Ganeder Kamat (S3833)",
+  "Paid To" : "Liaison",
+  "Amount" : "529"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "22 Oct 2026",
+  "Narration" : "Suruchi (S3881)",
+  "Paid To" : "Liaison",
+  "Amount" : "350"
+}, {
+  "Store Name" : "Saket",
   "Date" : "21 Oct 2026",
   "Narration" : "",
   "Paid To" : "Water bill",
