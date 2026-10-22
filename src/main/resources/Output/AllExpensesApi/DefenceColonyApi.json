@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "22 Oct 2026",
+  "Narration" : "commision 3390 91",
+  "Paid To" : "Liaison",
+  "Amount" : "170"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "19 Oct 2026",
   "Narration" : "commision manuj gupta 6 bill total",
   "Paid To" : "Liaison",
