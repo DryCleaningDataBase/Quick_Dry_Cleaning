@@ -1,1 +1,73 @@
-[ ]
+[ {
+  "Store Name" : "Saket",
+  "Date" : "24 Oct 2026",
+  "Narration" : "cash send to green park ajay ji",
+  "Paid To" : "Office Deposit",
+  "Amount" : "19000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "22 Oct 2026",
+  "Narration" : "Ganeder Kamat (S3833)",
+  "Paid To" : "Liaison",
+  "Amount" : "529"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "22 Oct 2026",
+  "Narration" : "Suruchi (S3881)",
+  "Paid To" : "Liaison",
+  "Amount" : "350"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "21 Oct 2026",
+  "Narration" : "",
+  "Paid To" : "Water bill",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "21 Oct 2026",
+  "Narration" : "Ganeder Kamat (3891)",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "105"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "14 Oct 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "12 Oct 2026",
+  "Narration" : "Karnal Shab (S3840)",
+  "Paid To" : "Liaison",
+  "Amount" : "236"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "12 Oct 2026",
+  "Narration" : "send to green park ajay ji",
+  "Paid To" : "Office Deposit",
+  "Amount" : "14000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "04 Oct 2026",
+  "Narration" : "Sapna Prasad (S3825)",
+  "Paid To" : "Liaison",
+  "Amount" : "370"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "03 Oct 2026",
+  "Narration" : "water one bottle",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "01 Oct 2026",
+  "Narration" : "manoj roa",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "01 Oct 2026",
+  "Narration" : "office chair",
+  "Paid To" : "Maintenance",
+  "Amount" : "500"
+} ]
