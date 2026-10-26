@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "26 Oct 2026",
+  "Narration" : "dust broom",
+  "Paid To" : "Maintenance",
+  "Amount" : "150"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "25 Oct 2026",
   "Narration" : "",
   "Paid To" : "Marketting",
