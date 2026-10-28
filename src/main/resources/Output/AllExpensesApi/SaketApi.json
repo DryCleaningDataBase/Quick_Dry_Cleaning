@@ -1,5 +1,35 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "28 Oct 2026",
+  "Narration" : "Third gender",
+  "Paid To" : "Maintenance",
+  "Amount" : "500"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Oct 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Oct 2026",
+  "Narration" : "Bablu (S3938)",
+  "Paid To" : "Liaison",
+  "Amount" : "151"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Oct 2026",
+  "Narration" : "Rishita Shyam (S3917)",
+  "Paid To" : "Liaison",
+  "Amount" : "119"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "28 Oct 2026",
+  "Narration" : "poter to green park (S3935",
+  "Paid To" : "Maintenance",
+  "Amount" : "80"
+}, {
+  "Store Name" : "Saket",
   "Date" : "25 Oct 2026",
   "Narration" : "Ganeder Kamat (S3921)",
   "Paid To" : "Liaison",

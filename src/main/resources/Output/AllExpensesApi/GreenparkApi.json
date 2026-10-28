@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "28 Oct 2026",
+  "Narration" : "gaddi tier pin repaire",
+  "Paid To" : "Maintenance",
+  "Amount" : "20"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Oct 2026",
+  "Narration" : "shutter greeceing",
+  "Paid To" : "Maintenance",
+  "Amount" : "400"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "28 Oct 2026",
+  "Narration" : "G20400 5 percent commission",
+  "Paid To" : "Liaison",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "25 Oct 2026",
   "Narration" : "g1995 g20137 g20148 g20175",
   "Paid To" : "Liaison",
