@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Saket",
+  "Date" : "30 Oct 2026",
+  "Narration" : "cash deposit send to green park AJAY JI",
+  "Paid To" : "Office Deposit",
+  "Amount" : "14000"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "30 Oct 2026",
+  "Narration" : "reenu bist (S3904 S3905)",
+  "Paid To" : "Liaison",
+  "Amount" : "440"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "30 Oct 2026",
+  "Narration" : "Nagesh Goel Ruchi Sharma (S3918  S3923)",
+  "Paid To" : "Liaison",
+  "Amount" : "1003"
+}, {
+  "Store Name" : "Saket",
   "Date" : "28 Oct 2026",
   "Narration" : "Third gender",
   "Paid To" : "Maintenance",
