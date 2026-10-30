@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "30 Oct 2026",
+  "Narration" : "1300 rs for 2 injection and 100 rs for tape",
+  "Paid To" : "Accessory Bills",
+  "Amount" : "1400"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "30 Oct 2026",
+  "Narration" : "sent to jaskaran sir home via Vivek",
+  "Paid To" : "Office Deposit",
+  "Amount" : "30000"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "28 Oct 2026",
   "Narration" : "gaddi tier pin repaire",
   "Paid To" : "Maintenance",
