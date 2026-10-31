@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "31 Oct 2026",
+  "Narration" : "G20434 g20438 5% commission",
+  "Paid To" : "Liaison",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "31 Oct 2026",
   "Narration" : "tape and clips or stapler pin",
   "Paid To" : "Packaging Material",
   "Amount" : "1150"
