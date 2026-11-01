@@ -1,1 +1,19 @@
-[ ]
+[ {
+  "Store Name" : "Greenpark",
+  "Date" : "01 Nov 2026",
+  "Narration" : "satish mukesh sudhir deepu himanshu ajay",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "2400"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "01 Nov 2026",
+  "Narration" : "today one dress stiching because after processing stich open",
+  "Paid To" : "Maintenance",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "01 Nov 2026",
+  "Narration" : "sent to plant for some clothes express and also store par reh gye the",
+  "Paid To" : "Logistics",
+  "Amount" : "190"
+} ]
