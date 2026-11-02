@@ -28,19 +28,19 @@
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 6884.0,
+  "Delivery - Cash" : 15418.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
   "Delivery - UPI" : 0.0,
   "Package - Sale" : 0.0,
-  "Customer Advance" : 0.0
+  "Customer Advance" : 40.0
 }, {
   "Location" : "Saket",
   "Advance - Cash" : 0.0,
   "Advance - Cheque/Bank" : 0.0,
   "Advance - Credit Card/Debit Card" : 0.0,
   "Advance - UPI" : 0.0,
-  "Delivery - Cash" : 2115.0,
+  "Delivery - Cash" : 4010.0,
   "Delivery - Cheque/Bank" : 0.0,
   "Delivery - Credit Card/Debit Card" : 0.0,
   "Delivery - UPI" : 0.0,
