@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "02 Nov 2026",
+  "Narration" : "rat glue trap",
+  "Paid To" : "Liaison",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "02 Nov 2026",
   "Narration" : "manish runner  send to Kalkaji",
   "Paid To" : "Office Deposit",
   "Amount" : "13000"
