@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "04 Nov 2026",
+  "Narration" : "D3396 commision",
+  "Paid To" : "Liaison",
+  "Amount" : "150"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "02 Nov 2026",
   "Narration" : "priyanshu tea",
   "Paid To" : "Tea & Refreshments",
