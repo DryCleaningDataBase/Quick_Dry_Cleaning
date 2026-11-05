@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "05 Nov 2026",
+  "Narration" : "sent to jaskaran sir home via Vivek",
+  "Paid To" : "Office Deposit",
+  "Amount" : "26000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Nov 2026",
+  "Narration" : "coldrink for staff",
+  "Paid To" : "Drinking Water",
+  "Amount" : "100"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "04 Nov 2026",
+  "Narration" : "G20408 driver commission",
+  "Paid To" : "Liaison",
+  "Amount" : "280"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "04 Nov 2026",
   "Narration" : "dump collection",
   "Paid To" : "Waste disposal",
