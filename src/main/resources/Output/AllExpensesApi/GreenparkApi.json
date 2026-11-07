@@ -1,6 +1,18 @@
 [ {
   "Store Name" : "Greenpark",
   "Date" : "07 Nov 2026",
+  "Narration" : "colin for mirrior",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "114"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "07 Nov 2026",
+  "Narration" : "g20481 g20522 g20551 driver commission 15% diwali",
+  "Paid To" : "Liaison",
+  "Amount" : "2530"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "07 Nov 2026",
   "Narration" : "sent to jaskaran sir home via Vivek",
   "Paid To" : "Office Deposit",
   "Amount" : "10000"
