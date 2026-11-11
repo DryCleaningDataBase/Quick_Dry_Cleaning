@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "11 Nov 2026",
+  "Narration" : "porter to plant for express clothes saket",
+  "Paid To" : "Logistics",
+  "Amount" : "195"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "11 Nov 2026",
+  "Narration" : "G20527  g20509",
+  "Paid To" : "Liaison",
+  "Amount" : "88"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "07 Nov 2026",
   "Narration" : "colin for mirrior",
   "Paid To" : "Stationary Supplies",
