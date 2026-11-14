@@ -1,5 +1,23 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "14 Nov 2026",
+  "Narration" : "KACHRE WALA",
+  "Paid To" : "Maintenance",
+  "Amount" : "200"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "13 Nov 2026",
+  "Narration" : "",
+  "Paid To" : "Tea & Refreshments",
+  "Amount" : "800"
+}, {
+  "Store Name" : "CR Park",
+  "Date" : "12 Nov 2026",
+  "Narration" : "nimbu mirchi",
+  "Paid To" : "Maintenance",
+  "Amount" : "50"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "11 Nov 2026",
   "Narration" : "",
   "Paid To" : "Drinking Water",
