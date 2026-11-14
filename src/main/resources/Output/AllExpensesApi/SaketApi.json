@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "14 Nov 2026",
+  "Narration" : "Suruchi (S3982 S3983)",
+  "Paid To" : "Liaison",
+  "Amount" : "127"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "14 Nov 2026",
   "Narration" : "cash deposit send to green park ajay ji",
   "Paid To" : "Office Deposit",
   "Amount" : "12000"
