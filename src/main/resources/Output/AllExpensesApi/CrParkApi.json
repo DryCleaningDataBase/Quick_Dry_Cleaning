@@ -1,5 +1,11 @@
 [ {
   "Store Name" : "CR Park",
+  "Date" : "15 Nov 2026",
+  "Narration" : "",
+  "Paid To" : "Drinking Water",
+  "Amount" : "100"
+}, {
+  "Store Name" : "CR Park",
   "Date" : "14 Nov 2026",
   "Narration" : "KACHRE WALA",
   "Paid To" : "Maintenance",
