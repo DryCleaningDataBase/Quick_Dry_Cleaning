@@ -1,6 +1,12 @@
 [ {
   "Store Name" : "Saket",
   "Date" : "19 Nov 2026",
+  "Narration" : "Chaudhri (S4016)",
+  "Paid To" : "Liaison",
+  "Amount" : "416"
+}, {
+  "Store Name" : "Saket",
+  "Date" : "19 Nov 2026",
   "Narration" : "Aakriti Khana (S3967)",
   "Paid To" : "Liaison",
   "Amount" : "235"

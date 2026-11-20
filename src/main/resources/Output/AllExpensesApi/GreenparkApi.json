@@ -1,5 +1,35 @@
 [ {
   "Store Name" : "Greenpark",
+  "Date" : "20 Nov 2026",
+  "Narration" : "G20631 commission",
+  "Paid To" : "Liaison",
+  "Amount" : "96"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "20 Nov 2026",
+  "Narration" : "jhaadu( broom)",
+  "Paid To" : "Stationary Supplies",
+  "Amount" : "150"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "20 Nov 2026",
+  "Narration" : "sent to jaskaran sir home via Vivek",
+  "Paid To" : "Office Deposit",
+  "Amount" : "37000"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "19 Nov 2026",
+  "Narration" : "plant to green park saket clothes urgently",
+  "Paid To" : "Logistics",
+  "Amount" : "191"
+}, {
+  "Store Name" : "Greenpark",
+  "Date" : "19 Nov 2026",
+  "Narration" : "G20647 g20681 5% commission",
+  "Paid To" : "Liaison",
+  "Amount" : "30"
+}, {
+  "Store Name" : "Greenpark",
   "Date" : "18 Nov 2026",
   "Narration" : "g20558",
   "Paid To" : "Liaison",
