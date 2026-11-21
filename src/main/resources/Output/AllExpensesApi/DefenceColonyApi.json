@@ -1,5 +1,17 @@
 [ {
   "Store Name" : "Defence Colony",
+  "Date" : "21 Nov 2026",
+  "Narration" : "commision 3443",
+  "Paid To" : "Liaison",
+  "Amount" : "190"
+}, {
+  "Store Name" : "Defence Colony",
+  "Date" : "21 Nov 2026",
+  "Narration" : "Nimboo mirch",
+  "Paid To" : "Maintenance",
+  "Amount" : "50"
+}, {
+  "Store Name" : "Defence Colony",
   "Date" : "20 Nov 2026",
   "Narration" : "18 water botal 3 month",
   "Paid To" : "Water bill",
